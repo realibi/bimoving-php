@@ -6,7 +6,7 @@ use Medoo\Medoo;
 $db = new Medoo([
     'database_type' => 'mysql',
     'database_name' => 'bimoving_db',
-    'server' => 'srv-db-pgsql01.ps.kz:5432',
+    'server' => 'srv-pleskdb21.ps.kz:3306',
     'username' => 'bimoving_root',
     'password' => 'Gw62y3r^'
 ]);

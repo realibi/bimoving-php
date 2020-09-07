@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79e2791f-6baa-4917-8136-6968babb8796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/03c06265dfd2af984457ac8bdec0837cbc16904b_0.file.moveDetails.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/03c06265dfd2af984457ac8bdec0837cbc16904b_0.file.moveDetails.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/3bf40626923ed334902c981c62354861283a2f77_0.file.footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/3bf40626923ed334902c981c62354861283a2f77_0.file.footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/432e6d7ba349381bd9f16fad6b7d3a2f66cf8bb9_0.file.transportationView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/432e6d7ba349381bd9f16fad6b7d3a2f66cf8bb9_0.file.transportationView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/9c58c210815ea6b135d8388c05e69fcbea780a47_0.file.movingRegistration.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/9c58c210815ea6b135d8388c05e69fcbea780a47_0.file.movingRegistration.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/a538b50b8335015d8ea8569af64beca8ab43d0e0_0.file.movingRegistrationView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a538b50b8335015d8ea8569af64beca8ab43d0e0_0.file.movingRegistrationView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/a7d3f0192bb8a1ce6c875a90e9796aa7d5c3cb54_0.file.index.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a7d3f0192bb8a1ce6c875a90e9796aa7d5c3cb54_0.file.index.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/a9f1c04e353f9dbf491fd51ecebf6dcc40490f3b_0.file.paymentDetails.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a9f1c04e353f9dbf491fd51ecebf6dcc40490f3b_0.file.paymentDetails.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/c1f2f9c4fe5aacda7f59d9719009ee3ccedbd7ba_0.file.header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/c1f2f9c4fe5aacda7f59d9719009ee3ccedbd7ba_0.file.header.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/ef42897e0c0430aa1c6517a9b367be5ce90b8eda_0.file.paymentDetailsView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/ef42897e0c0430aa1c6517a9b367be5ce90b8eda_0.file.paymentDetailsView.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/_compiled/efc39deecdd421e0ecfe1b67027dd77d759abbfc_0.file.success.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/efc39deecdd421e0ecfe1b67027dd77d759abbfc_0.file.success.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/movingRegistrationView.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/movingRegistrationView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/success.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/success.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/transportationView.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/transportationView.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/klein/klein" />
+      <path value="$PROJECT_DIR$/vendor/catfan/medoo" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h0ECrXYm8XpBYcIOENvH5QGTo4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/static/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\models" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\img" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\js" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e2791f-6baa-4917-8136-6968babb8796" name="Default Changelist" comment="" />
+      <created>1599139485125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599139485125</updated>
+      <workItem from="1599139486351" duration="9138000" />
+      <workItem from="1599219343713" duration="20535000" />
+      <workItem from="1599368268448" duration="10920000" />
+      <workItem from="1599406430498" duration="15782000" />
+      <workItem from="1599475320020" duration="4115000" />
+      <workItem from="1599498156632" duration="2857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1176" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599385857468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1176" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1599385857468" />
+    <state x="1343" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599498268247">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1343" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599146444377" />
+    <state x="1343" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599498268247" />
+    <state x="1274" y="448" key="NewPhpFileDialog" timestamp="1599499973807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1274" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599499973807" />
+    <state x="953" y="0" width="974" height="1057" key="dock-window-1" timestamp="1599500604676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="953" y="0" width="974" height="1057" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1599500604676" />
+  </component>
+</project>

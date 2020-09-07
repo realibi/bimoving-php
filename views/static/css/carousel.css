@@ -1,0 +1,80 @@
+.slider {
+    position: relative;
+    width: 100%;
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+.slider input[name="switch"] {
+    display: none;
+}
+
+.switch {
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+    text-align: center;
+    width: 100%;
+}
+
+.switch label {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    margin: 0 3px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .8);
+    border-radius: 50%;
+    border: 5px solid #2f363c;
+    background-color: #738290;
+}
+
+#btn1:checked~.switch label[for="btn1"] {
+    background-color: white;
+}
+
+#btn2:checked~.switch label[for="btn2"] {
+    background-color: white;
+}
+
+#btn3:checked~.switch label[for="btn3"] {
+    background-color: white;
+}
+
+#btn4:checked~.switch label[for="btn4"] {
+    background-color: white;
+}
+
+.slider-inner {
+    overflow: hidden;
+}
+
+.slides {
+    width: 401%;
+    transition: all 1.0s;
+}
+
+.slide-item img {
+    width: 1110px;
+    height: 540px;
+    float: left;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+#btn1:checked~slider-inner slides {
+    transform: translate(0);
+}
+
+#btn2:checked~.slider-inner .slides {
+    transform: translate(-1110px);
+}
+
+#btn3:checked~.slider-inner .slides {
+    transform: translate(-2220px);
+}
+
+#btn4:checked~.slider-inner .slides {
+    transform: translate(-3330px);
+}

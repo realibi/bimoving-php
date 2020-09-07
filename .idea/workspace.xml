@@ -41,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/views/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/static/img/slider/slide2.png" beforeDir="false" afterPath="$PROJECT_DIR$/views/static/img/slider/slide2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/success.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/success.php" afterDir="false" />
     </list>
@@ -108,7 +109,7 @@
       <workItem from="1599368268448" duration="10920000" />
       <workItem from="1599406430498" duration="15782000" />
       <workItem from="1599475320020" duration="4115000" />
-      <workItem from="1599498156632" duration="6068000" />
+      <workItem from="1599498156632" duration="6428000" />
     </task>
     <servers />
   </component>

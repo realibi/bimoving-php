@@ -164,9 +164,9 @@ $(document).ready(function () {
             </div>
             <br><br>
             <div class="checkboxBlock">
-                <input type="checkbox" id="known" name="newFlatCleaning"> Влажная уборка заселяемой квартиры: 220 тг/кв. м
+                <input type="checkbox" id="known" name="newFlatCleaning"> Влажная уборка заселяемой квартиры.
                 <br><br>
-                <input type="checkbox" id="unknown" name="oldFlatCleaning"> Влажная уборка квартиры, с которой вы переезжаете: 220 тг/кв. м
+                <input type="checkbox" id="unknown" name="oldFlatCleaning"> Влажная уборка квартиры, с которой вы переезжаете.
             </div>
         </div>
         <div class="col-md-3 col-xs-12">

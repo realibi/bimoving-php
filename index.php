@@ -127,6 +127,14 @@
         Индивидуальный подход к каждому клиенту.
         <br><br>
     </div>
+    
+    <div class="col-12">
+        <div class="img-frame">
+            <img src="/views/static/img/banner-horizontal.png" alt="">
+        </div>
+        <br><br>
+    </div>
+    
     <div class="col-md-6 col-xs-12">
         <div class="regular-text align-center">
             1) Мы единственная компания в Казахстане,
@@ -298,10 +306,9 @@
     <div class="col-md-1 col-xs-12"></div>
     <div class="col-md-7 col-xs-12">
         <br>
-        <div class="img-frame shadow-20">
-            <img src="/views/static/img/truck.jpg" width="100%">
+        <div class="img-frame">
+            <img src="/views/static/img/truck.png" width="100%">
         </div>
-
     </div>
 </div>
 

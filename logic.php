@@ -5,10 +5,10 @@ use Medoo\Medoo;
 
 $db = new Medoo([
     'database_type' => 'mysql',
-    'database_name' => 'bimoving_db',
-    'server' => 'srv-pleskdb21.ps.kz:3306',
-    'username' => 'bimoving_root',
-    'password' => 'Gw62y3r^'
+    'database_name' => 'bimovingdb',
+    'server' => 'localhost',
+    'username' => 'root',
+    'password' => ''
 ]);
 
 function sendMessageBot($messageText){

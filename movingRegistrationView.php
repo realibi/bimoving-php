@@ -141,7 +141,7 @@ $(document).ready(function () {
             </div>
             <div class="col-md-6 col-xs-12">
                 <div class="img-frame">
-                    <img src="/views/static/img/truck-transparent.png" alt="">
+                    <img src="/views/static/img/truck.png" alt="">
                 </div>
             </div>
             <div class="col-12">

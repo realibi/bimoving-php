@@ -43,7 +43,7 @@ include("header.php");
 
 <br><br>
 
-<form action="logic.php" method="post">
+<form action="/logic.php" method="post">
 
     <div class="row">
         <div class="col-md-5 col-xs-12">

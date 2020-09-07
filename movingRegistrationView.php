@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 <br><br>
 
-<form action="logic.php" method="post">
+<form action="/logic.php" method="post">
     <div class="row">
         <div class="col-md-6 col-xs-12">
             <div class="block">

@@ -20,30 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79e2791f-6baa-4917-8136-6968babb8796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/static/img/banner-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/static/img/truck.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logic.php" beforeDir="false" afterPath="$PROJECT_DIR$/logic.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movingRegistrationView.php" beforeDir="false" afterPath="$PROJECT_DIR$/movingRegistrationView.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transportationView.php" beforeDir="false" afterPath="$PROJECT_DIR$/transportationView.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/03c06265dfd2af984457ac8bdec0837cbc16904b_0.file.moveDetails.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/03c06265dfd2af984457ac8bdec0837cbc16904b_0.file.moveDetails.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/3bf40626923ed334902c981c62354861283a2f77_0.file.footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/3bf40626923ed334902c981c62354861283a2f77_0.file.footer.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/432e6d7ba349381bd9f16fad6b7d3a2f66cf8bb9_0.file.transportationView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/432e6d7ba349381bd9f16fad6b7d3a2f66cf8bb9_0.file.transportationView.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/9c58c210815ea6b135d8388c05e69fcbea780a47_0.file.movingRegistration.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/9c58c210815ea6b135d8388c05e69fcbea780a47_0.file.movingRegistration.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/a538b50b8335015d8ea8569af64beca8ab43d0e0_0.file.movingRegistrationView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a538b50b8335015d8ea8569af64beca8ab43d0e0_0.file.movingRegistrationView.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/a7d3f0192bb8a1ce6c875a90e9796aa7d5c3cb54_0.file.index.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a7d3f0192bb8a1ce6c875a90e9796aa7d5c3cb54_0.file.index.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/a9f1c04e353f9dbf491fd51ecebf6dcc40490f3b_0.file.paymentDetails.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/a9f1c04e353f9dbf491fd51ecebf6dcc40490f3b_0.file.paymentDetails.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/c1f2f9c4fe5aacda7f59d9719009ee3ccedbd7ba_0.file.header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/c1f2f9c4fe5aacda7f59d9719009ee3ccedbd7ba_0.file.header.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/ef42897e0c0430aa1c6517a9b367be5ce90b8eda_0.file.paymentDetailsView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/ef42897e0c0430aa1c6517a9b367be5ce90b8eda_0.file.paymentDetailsView.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/_compiled/efc39deecdd421e0ecfe1b67027dd77d759abbfc_0.file.success.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/_compiled/efc39deecdd421e0ecfe1b67027dd77d759abbfc_0.file.success.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/static/img/slider/slide2.png" beforeDir="false" afterPath="$PROJECT_DIR$/views/static/img/slider/slide2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/success.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/success.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +88,8 @@
       <workItem from="1599368268448" duration="10920000" />
       <workItem from="1599406430498" duration="15782000" />
       <workItem from="1599475320020" duration="4115000" />
-      <workItem from="1599498156632" duration="6428000" />
+      <workItem from="1599498156632" duration="7059000" />
+      <workItem from="1599586153086" duration="688000" />
     </task>
     <servers />
   </component>
@@ -126,6 +106,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1176" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599385857468">
@@ -141,9 +122,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1274" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599499973807" />
-    <state x="953" y="0" width="974" height="1057" key="dock-window-1" timestamp="1599500604676">
+    <state x="953" y="0" width="974" height="1057" key="dock-window-1" timestamp="1599586254005">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="953" y="0" width="974" height="1057" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1599500604676" />
+    <state x="953" y="0" width="974" height="1057" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1599586254005" />
   </component>
 </project>

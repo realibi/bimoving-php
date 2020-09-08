@@ -58,7 +58,7 @@ include("header.php");
             </div>
 
             <div class="customInput">
-                <input type="text" name="currentAddress">
+                <input type="text" name="currentAddress" required>
             </div>
 
             <br>
@@ -67,7 +67,7 @@ include("header.php");
                 Куда:
             </div>
             <div class="customInput">
-                <input type="text" name="newAddress">
+                <input type="text" name="newAddress" required>
             </div>
 
             <br>
@@ -76,7 +76,7 @@ include("header.php");
                 Номер телефона:
             </div>
             <div class="customInput">
-                <input type="text" name="phoneNumber">
+                <input type="text" name="phoneNumber" required>
             </div>
 
             <br>
@@ -85,7 +85,7 @@ include("header.php");
                 Дата перевозки:
             </div>
             <div class="customInput">
-                <input type="date" name="transportationDate">
+                <input type="date" name="transportationDate" required>
             </div>
             <div class="img-label-text">
                 <br>
@@ -115,7 +115,7 @@ include("header.php");
         </div>
         <div class="col-md-6 col-xs-12">
             <div class="img-frame">
-                <img src="/views/static/img/truck-transparent.png" alt="">
+                <img src="/views/static/img/truck.png" alt="">
             </div>
         </div>
 

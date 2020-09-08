@@ -84,7 +84,7 @@ $(document).ready(function () {
             </div>
 
             <div class="customInput">
-                <input type="text" name="currentAddress">
+                <input type="text" name="currentAddress" required>
             </div>
 
             <br>
@@ -93,7 +93,7 @@ $(document).ready(function () {
                 Куда будете переезжать:
             </div>
             <div class="customInput">
-                <input type="text" name="movingAddress">
+                <input type="text" name="movingAddress" required>
             </div>
 
             <br>
@@ -102,7 +102,7 @@ $(document).ready(function () {
                 Выберите точную дату:
             </div>
             <div class="customInput">
-                <input type="date" name="movingDate">
+                <input type="date" name="movingDate" required>
             </div>
 
             <br>
@@ -111,7 +111,7 @@ $(document).ready(function () {
                 Укажите площадь квартиры:
             </div>
             <div class="customInput">
-                <input type="number" name="flatArea" style="padding-right: 20px">
+                <input type="number" name="flatArea" style="padding-right: 20px" required>
             </div>
 
             <br><br><br>
@@ -192,7 +192,7 @@ $(document).ready(function () {
                 </div>
 
                 <div class="customInput">
-                    <input type="text" name="clientName">
+                    <input type="text" name="clientName" required>
                 </div>
 
                 <br>
@@ -201,7 +201,7 @@ $(document).ready(function () {
                     Фамилия:
                 </div>
                 <div class="customInput">
-                    <input type="text" name="clientSurname">
+                    <input type="text" name="clientSurname" required>
                 </div>
 
                 <br>
@@ -210,7 +210,7 @@ $(document).ready(function () {
                     Телефон:
                 </div>
                 <div class="customInput">
-                    <input type="text" name="clientPhoneNumber">
+                    <input type="text" name="clientPhoneNumber" required>
                 </div>
 
                 <br>

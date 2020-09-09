@@ -117,12 +117,9 @@
 }
 
 .img{
-  padding: 18px;
   width: 120px;
   height: 120px;
-  border: 2px solid black;
-  border-radius: 60px;
-  position: absolute;
+  padding: 15px;
 }
 
 .img:hover{

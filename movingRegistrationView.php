@@ -48,7 +48,7 @@ $(document).ready(function () {
         <div class="col-md-6 col-xs-12">
             <div class="block">
                 <div class="img">
-                    <img src="/views/static/img/research.png" alt="">
+                    <img src="/views/static/img/desktop-computer.png" alt="">
                 </div>
                 <div class="text">
                     1. Заполняете все нужные данные о переезде.
@@ -59,10 +59,10 @@ $(document).ready(function () {
 
             <div class="block">
                 <div class="img">
-                    <img src="/views/static/img/man.png" alt="">
+                    <img src="/views/static/img/female-worker.png" alt="">
                 </div>
                 <div class="text">
-                    2. За 3 дня до переезда менеджер посещает дом и выставяет итоговый счет.
+                    2. За 3 дня до переезда менеджер посещает дом, и обсуждает с вами все детали заказа.
                 </div>
             </div>
 
@@ -70,7 +70,7 @@ $(document).ready(function () {
 
             <div class="block">
                 <div class="img">
-                    <img src="/views/static/img/smile.png" alt="">
+                    <img src="/views/static/img/smile-emoji.png" alt="">
                 </div>
                 <div class="text">
                     3. Ждете день переезда. <br>

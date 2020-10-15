@@ -99,18 +99,18 @@ include("header.php");
 
 
     <div class="row">
-        <div class="col-md-4 col-xs-12">
-            <br><br><br>
-            <div class="checkboxBlock">
-                <input type="radio" name="transportationDuration" value="1" checked> 1 час - 4990 тг <br><br>
-                <input type="radio" name="transportationDuration" value="2"> 2 часа - 9990 тг <br><br>
-                <input type="radio" name="transportationDuration" value="3"> 3 часа - 14990 тг <br><br>
-            </div>
-            <div class="img-label-text">
-                +4990 тг за дополнительный час.
+        <div class="col-md-5 col-xs-12">
+            <br><br>
+            <div class="checkboxBlock" style="border: 2px solid #074e91; border-radius: 15px; background-color: white; padding: 5%; text-align: center; width: 100%;">
+                Формула цены грузоперевозки: <br><br>
+                2800тг + (55тг * кол-во минут) <br><br>
+                Первые 10 минут бесплатно <br><br>
+                <div class="img-label-text">
+                    +50% к итоговой сумме за двух грузчиков
+                </div>
             </div>
         </div>
-        <div class="col-md-2 col-xs-12">
+        <div class="col-md-1 col-xs-12">
 
         </div>
         <div class="col-md-6 col-xs-12">
